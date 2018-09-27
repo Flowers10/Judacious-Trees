@@ -1,4 +1,9 @@
 /*FOR THE STYLES, OBVIOUSLY*/
 .button {
   background-color: red;
+  transition: 0.3s;
+}
+
+.button:hover {
+  background-color: gray;
 }
