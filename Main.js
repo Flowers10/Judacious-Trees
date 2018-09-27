@@ -4,5 +4,5 @@ function test() {
 }
 
 window.setInterval(function() {
-  html.getElementById('').innerHTML = HELLOS;
+  html.getElementById('test').innerHTML = HELLOS;
 })
