@@ -1,6 +1,7 @@
-var save = HELLOS.toString()
+
 function save() {
-  var b64 = btoa(save);
+  var string = HELLOS.toString()
+  var b64 = btoa(string);
   var unicode = atob(b64);
 }
 
