@@ -5,5 +5,5 @@ function save() {
 }
 
 windo.setInterval(function() {
-    document.getElementSById('b64').innerHTML = b64;
+    document.getElementById('b64').innerHTML = b64;
 },100)
