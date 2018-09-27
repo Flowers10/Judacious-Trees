@@ -5,4 +5,4 @@ function test() {
 
 window.setInterval(function() {
   html.getElementById('test').innerHTML = HELLOS;
-})
+},100)
