@@ -1,6 +1,6 @@
 //Holds most of the functions for things like buttons
 function test() {
-  HELLos++;
+  HELLOS++;
 }
 
 window.setInterval(function() {
