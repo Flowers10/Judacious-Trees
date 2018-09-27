@@ -4,6 +4,6 @@ function save() {
   var unicode = atob(b64);
 }
 
-windo.setInterval(function() {
+window.setInterval(function() {
     document.getElementById('b64').innerHTML = b64;
 },100)
